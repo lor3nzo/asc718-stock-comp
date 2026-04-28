@@ -1,4 +1,4 @@
-# ASC 718 Stock Compensation MVP
+# ASC 718 Stock Compensation
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
