@@ -132,4 +132,4 @@ This is not audit-certified ASC 718 software.
 
 ## License
 
-GPL v3.0
+MIT License
