@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-MVP-orange)
 ![Local First](https://img.shields.io/badge/local--first-no%20cloud-green)
 
